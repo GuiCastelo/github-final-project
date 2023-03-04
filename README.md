@@ -8,3 +8,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+### This is the final project of the course `Getting Started with Git and GitHub`.
